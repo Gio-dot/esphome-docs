@@ -12,4 +12,3 @@ reader used to open in secure way a door/gate.
 .. figure:: images/ESP32-Cam-Wiegand_bb.png
     :align: center
     :width: 75.0%
-
