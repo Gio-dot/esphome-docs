@@ -7,7 +7,7 @@ Esp32 Cam plus Wiegand reader and door bell
     :keywords: Arduino Wiegand ESPHome Door bell
 
 With this project is possible to use an Esp32 cam to manage at one time a cam, a door bell and an irfid tag 
-reader used to open in secure way a door/gate
+reader used to open in secure way a door/gate.
 
 .. figure:: images/arduino_pro_mini.jpg
     :align: center
